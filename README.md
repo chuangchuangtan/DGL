@@ -12,11 +12,16 @@ Weakly Supervised Object Localization (WSOL) aims to learn object locations in a
 
 
 # Trained model
-- Download the pretrined model on ImageNet at GoogleDrive
+- Download the trined models on ImageNet at GoogleDrive
   [vgg16-DGL model on ImageNet](https://drive.google.com/file/d/10Mf5bpqMOZGO_gHLi5PBhVXb98b9mpTO/view?usp=sharing)
+  
   [inceptionV3-DGL model on ImageNet](https://drive.google.com/file/d/1wWKgEmvnYLZ4Oia3KbGdc7wyF5yzT-kM/view?usp=sharing)
+  
   [resnet50-DGL model on ImageNet](https://drive.google.com/file/d/1vnkV4plmf7bcyN-1nzY1xv54QExGzitf/view?usp=sharing)
+  
   [resnet50-SE-DGL model on ImageNet](https://drive.google.com/file/d/1I9jSV6-TzRssfL0RiWWZzRuhQ1zR0tQP/view?usp=sharing)
+- Download the pretrined model on ImageNet at GoogleDrive to train models
+  [pretrain models for vgg, inception, resnet50,resnet50se](https://drive.google.com/drive/folders/1HHdc4f6FTAuptdfm8kXVNcoIcR_xFsAV?usp=sharing)
 
 # Prerequisites 
 
