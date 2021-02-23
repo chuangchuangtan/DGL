@@ -12,8 +12,7 @@ Weakly Supervised Object Localization (WSOL) aims to learn object locations in a
 
 
 # Trained model
-- Download the pretrain models and the trained models on ImageNet at GoogleDrive
-[models](https://drive.google.com/drive/folders/1xaI2EI-yTs7TO6FtELkWVNghbkotygb0?usp=sharing)
+- Download [the pretrain models and the trained models](https://drive.google.com/drive/folders/1xaI2EI-yTs7TO6FtELkWVNghbkotygb0?usp=sharing) on ImageNet at GoogleDrive
 
 # Prerequisites 
 
